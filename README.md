@@ -14,4 +14,4 @@
 
 ## Achievements
 Proud Design Pioneer in Meshery!
-<div><a href="https://cloud.layer5.io/user/0df5ffc6-a3dc-4277-9fed-dfcf755a1f35?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+<div><a href="https://cloud.layer5.io/user/0df5ffc6-a3dc-4277-9fed-dfcf755a1f35?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>
