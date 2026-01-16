@@ -12,4 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=R1sh0bh-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1sh0bh-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Achievements
+Proud Design Pioneer in Meshery!
+<div><a href="https://cloud.layer5.io/user/0df5ffc6-a3dc-4277-9fed-dfcf755a1f35?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
